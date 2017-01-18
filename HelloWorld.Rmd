@@ -1,8 +1,2 @@
----
-title: "Markdown"
-author: "wjm1992"
-date: "12 Jan 2017"
-output: html_document
----
 
 ## This is a R markdown file
